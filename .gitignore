@@ -3,3 +3,4 @@ Library/PackageCache/*
 Library/BurstCache/*
 Library/ShaderCache/*
 Library/StateCache/*
+Library/*
