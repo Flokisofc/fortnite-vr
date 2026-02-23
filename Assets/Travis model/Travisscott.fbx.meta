@@ -3,7 +3,22 @@ guid: d50dbde4ed2122e418a1d24ea5a1e19d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_MED_Cyclone_Body_T1_7ae99578
+    second: {fileID: 2100000, guid: ebf333a584acdca459b37b4bb5e85c49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_MED_Cyclone_Face_Accessories_50b98042
+    second: {fileID: 2100000, guid: 015a2beaebdee174a8ed1080f22452f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_MED_Cyclone_Head_49de45da
+    second: {fileID: 2100000, guid: cf7201126a6764341b8e34f38f584f0d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
